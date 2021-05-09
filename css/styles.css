@@ -6073,7 +6073,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: #be22be !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6083,7 +6083,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #2c3e50 !important;
+  background-color: #1d1d1d !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -10017,7 +10017,7 @@ h3 {
   font-size: 2rem;
 }
 .divider-custom.divider-light .divider-custom-line {
-  background-color: #fff;
+  background-color: rgb(0, 0, 0);
 }
 .divider-custom.divider-light .divider-custom-icon {
   color: #fff !important;
@@ -10067,13 +10067,13 @@ h3 {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #1abc9c;
+  color: #738f57;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #1abc9c;
+  color: #738f57;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -10122,7 +10122,7 @@ h3 {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 25rem;
+  width: 50rem;
 }
 
 @media (min-width: 992px) {
